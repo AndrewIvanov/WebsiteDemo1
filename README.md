@@ -1,8 +1,8 @@
 # WebsiteDemo1
 
 Using:
-Visual Studios Community 2015 + NuGet package manager
-Bootstrap v3.3.7
+Visual Studios Community 2015 + NuGet package manager <br>
+Bootstrap v3.3.7<br>
 jQuery v1.9.1
 
 MasterPageMain.master is the master page that all other pages are created from (in order to have this content span across all pages as this is one of the main reasons for having master pages). In this example it is primarily for the common Navigation bar across all pages. 
